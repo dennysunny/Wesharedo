@@ -2,4 +2,5 @@
  A simple instagram inspired application to learn React-Native
  
 ## Screenshot
-![Screenshot](wesharedo.jpg|width=720){:class="img-responsive"}
+![Screenshot](wesharedo.jpg)
+<img src="wesharedo.jpg" width="100" height="100">
