@@ -3,4 +3,4 @@
  
 ## Screenshot
 ![Screenshot](wesharedo.jpg)
-<img src="wesharedo.jpg" width="100" height="100">
+<img src="wesharedo.jpg" width="720" height="1440">
