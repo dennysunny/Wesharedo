@@ -2,4 +2,4 @@
  A simple instagram inspired application to learn React-Native
  
 ## Screenshot
-![Screenshot](wesharedo.jpg)
+![Screenshot](wesharedo.jpg=1440x720)
